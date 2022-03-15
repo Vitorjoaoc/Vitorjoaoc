@@ -1,6 +1,6 @@
 # Olá,  eu sou o João Vitor
 
-📚 Cursando Ciência da Computação 
+📚 Cursando 2º período em Ciência da Computação 
 
 💡 Interassado em desenvolver minhas habilidades já adquiridas e ampliar meus conhecimentos.
 
