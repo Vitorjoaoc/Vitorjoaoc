@@ -3,6 +3,7 @@
 📚 Cursando 2º período em Ciência da Computação 
 
 💡 Interassado em desenvolver minhas habilidades já adquiridas e ampliar meus conhecimentos.
+
 📖 Estudando Python, HTML5 e CSS3
 <div align="center">
   <a href="https://github.com/Vitorjoaoc">
