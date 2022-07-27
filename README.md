@@ -27,3 +27,5 @@
  <div> 
   <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-a01b6521b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+![snake gif](https://github.com/Vitorjoaoc/Vitorjoaoc/blob/output/github-contribution-grid-snake.svg)
