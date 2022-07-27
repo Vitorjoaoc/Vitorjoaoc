@@ -5,7 +5,7 @@
 💡 Interassado em desenvolver minhas habilidades já adquiridas e ampliar meus conhecimentos.
 
 📖 Estudando JavaScript, HTML5 e CSS3.
-<div style="display: inline" align="center">
+<div style="display: inline_block" align="center">
   <a href="https://github.com/Vitorjoaoc">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vitorjoaoc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitorjoaoc&layout=compact&langs_count=7&theme=dracula"/>
